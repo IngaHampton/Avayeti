@@ -24,8 +24,4 @@ public class PickUpPointsScript : MonoBehaviour {
 		ScoreText.text = 0.ToString (Format);
 		
 	}
-	void Update () {
-
-		
-	}
 }
